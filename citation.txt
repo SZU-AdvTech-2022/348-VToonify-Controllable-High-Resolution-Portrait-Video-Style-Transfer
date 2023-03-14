@@ -1,0 +1,9 @@
+@article{REPO-349,
+    author = "Yang, Shuai and Jiang, Liming and Liu, Ziwei and Loy, Chen Change",
+    journal = "ACM Transactions on Graphics (TOG)",
+    number = "6",
+    pages = "1--15",
+    title = "{VToonify: Controllable High-Resolution Portrait Video Style Transfer}",
+    volume = "41",
+    year = "2022"
+}
